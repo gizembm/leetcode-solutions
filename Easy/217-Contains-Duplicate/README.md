@@ -38,3 +38,7 @@ O(n)
 - Checking whether an element has already been seen
 - Using the `in` operator for fast lookups
 - Reducing time complexity from O(n²) to O(n)
+
+## Key Idea
+
+Use a Hash Set to detect duplicate values efficiently in one pass.
