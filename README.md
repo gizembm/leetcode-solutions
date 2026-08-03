@@ -49,6 +49,7 @@ leetcode-solutions/
 
 | # | Problem | Difficulty | Main Concept |
 |--:|---------|:----------:|--------------|
+| 1 | Two Sum | 🟢 Easy | Hash Map |
 | 27 | Remove Element | 🟢 Easy | Two Pointers |
 | 88 | Merge Sorted Array | 🟢 Easy | Three Pointers |
 | 217 | Contains Duplicate | 🟢 Easy | Hash Set |
