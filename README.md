@@ -2,9 +2,11 @@
 
 Welcome to my **LeetCode Solutions** repository!
 
-This repository contains my solutions to LeetCode problems, written in **Python**, along with detailed explanations for each problem.
+This repository contains my solutions to LeetCode problems, written in **Python 3**, along with detailed explanations for each problem.
 
-The goal of this repository is not only to solve problems but also to document my learning process and improve my problem-solving skills.
+The goal of this repository is not only to solve coding problems, but also to document my learning process, strengthen my understanding of Data Structures and Algorithms, and improve my problem-solving skills.
+
+I am currently following the **NeetCode Roadmap** to study problems in a structured, topic-based order.
 
 ---
 
@@ -17,11 +19,11 @@ The goal of this repository is not only to solve problems but also to document m
 ## 📈 Progress
 
 | Difficulty | Solved |
-|-----------|-------:|
-| 🟢 Easy | 4 |
-| 🟡 Medium | 0 |
+|------------|-------:|
+| 🟢 Easy | 5 |
+| 🟡 Medium | 1 |
 | 🔴 Hard | 0 |
-| **Total** | **4** |
+| **Total** | **6** |
 
 ---
 
@@ -31,12 +33,14 @@ The goal of this repository is not only to solve problems but also to document m
 leetcode-solutions/
 │
 ├── Easy/
+│   ├── 0001-Two-Sum/
 │   ├── 0027-Remove-Element/
 │   ├── 0088-Merge-Sorted-Array/
 │   ├── 0217-Contains-Duplicate/
 │   └── 0242-Valid-Anagram/
 │
 ├── Medium/
+│   └── 0049-Group-Anagrams/
 │
 ├── Hard/
 │
@@ -51,57 +55,97 @@ leetcode-solutions/
 |--:|---------|:----------:|--------------|
 | 1 | Two Sum | 🟢 Easy | Hash Map |
 | 27 | Remove Element | 🟢 Easy | Two Pointers |
+| 49 | Group Anagrams | 🟡 Medium | Hash Map, Sorting |
 | 88 | Merge Sorted Array | 🟢 Easy | Three Pointers |
 | 217 | Contains Duplicate | 🟢 Easy | Hash Set |
-| 242 | Valid Anagram | 🟢 Easy | Hash Map / Frequency Counting |
+| 242 | Valid Anagram | 🟢 Easy | Frequency Counting |
 
 ---
 
-## 📖 README Format
+## 🗺️ Current Learning Path
 
-Each problem contains:
+I am currently following the **NeetCode Roadmap**.
 
-- 📌 Problem description
-- 📝 Examples
-- 💡 Step-by-step explanation
-- 🧠 Solution
-- 🔍 Dry Run
-- 🎯 Key Idea
-- ⏱️ Time Complexity
-- 💾 Space Complexity
-- 📚 What I Learned
+The roadmap organizes problems by important Data Structures and Algorithms topics, allowing me to progress from fundamental concepts to more advanced techniques.
 
-This format helps me understand the algorithm instead of simply memorizing the solution.
+### Current Focus
+
+- Arrays and Hashing
+- Hash Sets
+- Hash Maps
+- Frequency Counting
+- Two Pointers
+- Sorting-based solutions
+
+### Upcoming Topics
+
+- Stack
+- Binary Search
+- Sliding Window
+- Linked List
+- Trees
+- Heap / Priority Queue
+- Backtracking
+- Graphs
+- Dynamic Programming
+
+---
+
+## 📖 Problem README Format
+
+Each problem folder contains a `solution.py` file and a detailed `README.md`.
+
+The README files follow this structure:
+
+1. Problem
+2. Examples
+3. Difficulty
+4. Topics
+5. Approach
+6. Step-by-step explanation
+7. Solution
+8. Dry Run
+9. Key Idea
+10. Time Complexity
+11. Space Complexity
+12. What I Learned
+
+This format helps me understand the reasoning behind each solution instead of simply memorizing the code.
 
 ---
 
 ## 🎯 Goals
 
-- Solve LeetCode problems consistently.
-- Strengthen Data Structures and Algorithms knowledge.
-- Improve problem-solving skills.
+- Follow the NeetCode Roadmap consistently.
+- Solve LeetCode problems regularly.
+- Strengthen my Data Structures and Algorithms knowledge.
+- Learn how to recognize common problem-solving patterns.
+- Improve my Python programming skills.
 - Build a well-organized GitHub portfolio.
 - Prepare for technical interviews.
 
 ---
 
-## 📚 Learning Roadmap
+## ⭐ Current Statistics
 
-Currently following:
-
-- ✅ NeetCode Roadmap
-- ✅ LeetCode Easy Problems
-- ⏳ LeetCode 75
-- ⏳ Top Interview 150
+- Total Problems Solved: **6**
+- Easy Problems: **5**
+- Medium Problems: **1**
+- Hard Problems: **0**
 
 ---
 
-## ⭐ Current Stats
+## 📚 Topics Practiced
 
-- Solved Problems: **4**
-- Easy: **4**
-- Medium: **0**
-- Hard: **0**
+- Arrays
+- Strings
+- Hash Maps
+- Hash Sets
+- Frequency Counting
+- Two Pointers
+- Three Pointers
+- Sorting
+- In-place Array Modification
 
 ---
 
