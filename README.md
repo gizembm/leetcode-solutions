@@ -2,32 +2,32 @@
 
 Welcome to my **LeetCode Solutions** repository!
 
-This repository contains my solutions to LeetCode problems, written in **Python 3**, along with detailed explanations for each problem.
+This repository contains my solutions to **LeetCode** problems, implemented in **Python 3** and accompanied by detailed explanations.
 
-The goal of this repository is not only to solve coding problems, but also to document my learning process, strengthen my understanding of Data Structures and Algorithms, and improve my problem-solving skills.
+Rather than simply collecting accepted solutions, this repository documents my learning journey through Data Structures and Algorithms. Every problem includes an explanation of the approach, complexity analysis, and the key concepts I learned.
 
-I am currently following the **NeetCode Roadmap** to study problems in a structured, topic-based order.
+I am currently following the **NeetCode Roadmap**, solving problems topic by topic to build a strong algorithmic foundation.
 
 ---
 
-## 🐍 Language
+# 🐍 Language
 
 - Python 3
 
 ---
 
-## 📈 Progress
+# 📈 Progress
 
 | Difficulty | Solved |
 |------------|-------:|
 | 🟢 Easy | 5 |
-| 🟡 Medium | 1 |
+| 🟡 Medium | 2 |
 | 🔴 Hard | 0 |
-| **Total** | **6** |
+| **Total** | **7** |
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 ```text
 leetcode-solutions/
@@ -40,7 +40,8 @@ leetcode-solutions/
 │   └── 0242-Valid-Anagram/
 │
 ├── Medium/
-│   └── 0049-Group-Anagrams/
+│   ├── 0049-Group-Anagrams/
+│   └── 0347-Top-K-Frequent-Elements/
 │
 ├── Hard/
 │
@@ -49,7 +50,7 @@ leetcode-solutions/
 
 ---
 
-## ✅ Solved Problems
+# ✅ Solved Problems
 
 | # | Problem | Difficulty | Main Concept |
 |--:|---------|:----------:|--------------|
@@ -59,25 +60,23 @@ leetcode-solutions/
 | 88 | Merge Sorted Array | 🟢 Easy | Three Pointers |
 | 217 | Contains Duplicate | 🟢 Easy | Hash Set |
 | 242 | Valid Anagram | 🟢 Easy | Frequency Counting |
+| 347 | Top K Frequent Elements | 🟡 Medium | Bucket Sort, Hash Map |
 
 ---
 
-## 🗺️ Current Learning Path
+# 🗺️ Learning Roadmap
 
-I am currently following the **NeetCode Roadmap**.
+I am following the **NeetCode Roadmap**, which organizes LeetCode problems by algorithmic patterns instead of difficulty.
 
-The roadmap organizes problems by important Data Structures and Algorithms topics, allowing me to progress from fundamental concepts to more advanced techniques.
+## ✔️ Completed Topics
 
-### Current Focus
+- Arrays & Hashing
 
-- Arrays and Hashing
-- Hash Sets
-- Hash Maps
-- Frequency Counting
-- Two Pointers
-- Sorting-based solutions
+## 🔄 Currently Learning
 
-### Upcoming Topics
+- Arrays & Hashing (Medium Problems)
+
+## ⏳ Upcoming Topics
 
 - Stack
 - Binary Search
@@ -86,56 +85,34 @@ The roadmap organizes problems by important Data Structures and Algorithms topic
 - Trees
 - Heap / Priority Queue
 - Backtracking
+- Tries
 - Graphs
 - Dynamic Programming
 
 ---
 
-## 📖 Problem README Format
+# 📖 README Structure
 
-Each problem folder contains a `solution.py` file and a detailed `README.md`.
+Each problem includes a detailed explanation following the same format.
 
-The README files follow this structure:
+- 📌 Problem
+- 📝 Examples
+- 🏷️ Difficulty
+- 📚 Topics
+- 💡 Step-by-Step Approach
+- 🔄 Alternative Solutions *(Medium & Hard Problems)*
+- 💻 Solution
+- 🔍 Dry Run
+- 🎯 Key Idea
+- ⏱️ Time Complexity
+- 💾 Space Complexity
+- 📚 What I Learned
 
-1. Problem
-2. Examples
-3. Difficulty
-4. Topics
-5. Approach
-6. Step-by-step explanation
-7. Solution
-8. Dry Run
-9. Key Idea
-10. Time Complexity
-11. Space Complexity
-12. What I Learned
-
-This format helps me understand the reasoning behind each solution instead of simply memorizing the code.
+The goal is to understand **why** a solution works rather than simply memorizing the code.
 
 ---
 
-## 🎯 Goals
-
-- Follow the NeetCode Roadmap consistently.
-- Solve LeetCode problems regularly.
-- Strengthen my Data Structures and Algorithms knowledge.
-- Learn how to recognize common problem-solving patterns.
-- Improve my Python programming skills.
-- Build a well-organized GitHub portfolio.
-- Prepare for technical interviews.
-
----
-
-## ⭐ Current Statistics
-
-- Total Problems Solved: **6**
-- Easy Problems: **5**
-- Medium Problems: **1**
-- Hard Problems: **0**
-
----
-
-## 📚 Topics Practiced
+# 🧠 Concepts Practiced
 
 - Arrays
 - Strings
@@ -144,8 +121,44 @@ This format helps me understand the reasoning behind each solution instead of si
 - Frequency Counting
 - Two Pointers
 - Three Pointers
+- Bucket Sort
 - Sorting
 - In-place Array Modification
+
+---
+
+# 🎯 Goals
+
+- Complete the NeetCode Roadmap.
+- Solve LeetCode problems consistently.
+- Strengthen my Data Structures and Algorithms knowledge.
+- Learn common algorithmic patterns.
+- Improve my Python programming skills.
+- Build a high-quality GitHub portfolio.
+- Prepare for technical interviews.
+
+---
+
+# 📊 Current Statistics
+
+| Category | Count |
+|----------|------:|
+| Total Problems | **7** |
+| Easy | **5** |
+| Medium | **2** |
+| Hard | **0** |
+
+---
+
+# 🌟 Repository Highlights
+
+- ✅ Well-organized folder structure
+- ✅ Detailed README for every problem
+- ✅ Step-by-step explanations
+- ✅ Dry Run examples
+- ✅ Complexity analysis
+- ✅ Alternative solutions for Medium and Hard problems
+- ✅ Continuous progress following the NeetCode Roadmap
 
 ---
 
